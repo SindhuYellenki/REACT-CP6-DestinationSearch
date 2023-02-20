@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+.bg-container {
+  height: 400px;
+  width: 300px;
+  margin: 10px;
+}
+
+.imgStyling {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 800;
+  color: black;
+  font-family: 'Roboto';
+  text-align: center;
+}
